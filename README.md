@@ -40,4 +40,3 @@ The primary goal of this project is to develop a predictive model that can class
 ### **Conclusion:**  
 The developed machine learning model effectively classifies sonar signals as either rock or mine with a satisfactory accuracy score. While Logistic Regression provided a reasonable performance, further improvements could be made by experimenting with advanced classification algorithms like Support Vector Machines (SVM), Random Forest, or Neural Networks. Feature engineering and hyperparameter tuning could also enhance accuracy for better real-world applicability.  
 
-Would you like me to refine or add anything else? 😊
